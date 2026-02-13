@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Crypto Wallet",
+    "slug": "crypto-wallet-dashboard",
+    "version": "1.0.0",
+    "orientation": "default",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cryptowallet"
+    },
+    "android": {
+      "package": "com.cryptowallet"
+    }
+  }
+}
